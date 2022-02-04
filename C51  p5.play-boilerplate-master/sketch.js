@@ -8,7 +8,7 @@ var bulletGroup ,diomandGroup , enemy_1Group , enemy_2Group , enemy_3Group;
 
 var background , backgroundImg;
 
-var you_win , you_winImg;
+var you_win , you_winImg ;
 
 var bulletSound;
 
